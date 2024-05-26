@@ -3,8 +3,8 @@
 ## Tools used
 - React
 - Redux toolkit
-- [rest countries api(https://restcountries.com/v3.1)]
-- [Weatherbit api(https://weatherbit-v1-mashape.p.rapidapi.com)]
+- [rest countries api((https://restcountries.com/v3.1)]
+- [Weatherbit api((https://weatherbit-v1-mashape.p.rapidapi.com)]
 - Tailwind css
 - ant desing
 - react router dom
